@@ -7,7 +7,7 @@
 - Email: ice_b0und@hotmail.com
 - Phone: 18810229320
 - Blog: [a1exwang's Blog](https://blog.a1ex.wang)
-- [Github](https://github.com/a1exwang/) [Stackoverflow](http://stackoverflow.com/users/4715389/alex-wang) [Git@OSC](http://git.oschina.net/alexw)
+- [Github](https://github.com/a1exwang/), [Stackoverflow](http://stackoverflow.com/users/4715389/alex-wang), [Git@OSC](http://git.oschina.net/alexw)
 - 网名: ice_b0und 
 - 清华大学计算机系二年级本科生 
 - 热爱软件开发, 熟悉Linux环境, 了解一些操作系统, 驱动程序, 编译器相关的技术
