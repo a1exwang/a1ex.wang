@@ -5,10 +5,10 @@
 
 
   <o:DocumentProperties>
-    <o:Title>Resume for 王奥丞</o:Title>
-    <o:Author>王奥丞</o:Author>
+    <o:Title>Resume for 王奥丞 Alex Wang</o:Title>
+    <o:Author>王奥丞 Alex Wang</o:Author>
     <o:Keywords>resume;CV</o:Keywords>
-    <o:LastAuthor>王奥丞</o:LastAuthor>
+    <o:LastAuthor>王奥丞 Alex Wang</o:LastAuthor>
     <o:Revision>1</o:Revision>
     <o:TotalTime>60</o:TotalTime>
     <o:Created>2015-12-16T17:38:00Z</o:Created>
@@ -486,42 +486,11 @@
         <w:r>
 
 
-          <w:t>王奥丞</w:t>
+          <w:t>王奥丞 Alex Wang</w:t>
         </w:r>
       </w:p>
 
 
-      <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="00505903" wsp:rsidP="00C146CA">
-        <w:pPr>
-          <w:rPr>
-            <w:sz-cs w:val="20"/>
-          </w:rPr>
-        </w:pPr>
-        <w:hlink w:dest="mailto:ice_b0und@hotmail.com">
-          <w:r wsp:rsidRPr="003876BF">
-            <w:rPr>
-              <w:rStyle w:val="Hyperlink"/>
-              <w:sz w:val="16"/>
-            </w:rPr>
-            <w:t>ice_b0und@hotmail.com<w:br/></w:t>
-          </w:r>
-        </w:hlink>
-        <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0">
-          <w:rPr>
-            <w:sz w:val="16"/>
-          </w:rPr>
-          <w:t>18810229320<w:br/></w:t>
-        </w:r>
-        <w:hlink w:dest="https://blog.a1ex.wang">
-          <w:r wsp:rsidRPr="003876BF">
-            <w:rPr>
-              <w:rStyle w:val="Hyperlink"/>
-              <w:sz w:val="16"/>
-            </w:rPr>
-            <w:t>https://blog.a1ex.wang</w:t>
-          </w:r>
-        </w:hlink>
-      </w:p>
 
 
       
@@ -633,7 +602,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>JavaScript  HTML 5  CSS  LAMP  MVC  REST</w:t>
+            <w:t>Ruby on Rails  Node.js  Electron</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -655,7 +624,7 @@
               <w:noProof/>
             </w:rPr>
             <w:pict>
-              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#C00000"  strokeweight="0"/>
+              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#428BCA"  strokeweight="0"/>
             </w:pict>
           </w:r>
           <w:r>
@@ -663,7 +632,7 @@
               <w:noProof/>
             </w:rPr>
             <w:pict>
-              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:0pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:8pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
             </w:pict>
           </w:r>
         </w:p>
@@ -683,7 +652,7 @@
               <w:b/>
               <w:caps/>
             </w:rPr>
-            <w:t>JavaScript</w:t>
+            <w:t>Linux Server Operation and Maintenance</w:t>
           </w:r>
         </w:p>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -692,66 +661,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Node.js  Angular.js  jQuery  Bootstrap  React.js  Backbone.js</w:t>
-          </w:r>
-        </w:p>
-      </w:tc>
-    </w:tr>
-
-
-    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
-      <w:trPr>
-        <w:trHeight w:val="882"/>
-      </w:trPr>
-      <w:tc>
-        <w:tcPr>
-          <w:tcW w:w="828" w:type="dxa"/>
-          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
-        </w:tcPr>
-        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
-          <w:r>
-            <w:rPr>
-              <w:noProof/>
-            </w:rPr>
-            <w:pict>
-              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#F1C40F"  strokeweight="0"/>
-            </w:pict>
-          </w:r>
-          <w:r>
-            <w:rPr>
-              <w:noProof/>
-            </w:rPr>
-            <w:pict>
-              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:16pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
-            </w:pict>
-          </w:r>
-        </w:p>
-      </w:tc>
-      <w:tc>
-        <w:tcPr>
-          <w:tcW w:w="8748" w:type="dxa"/>
-          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
-        </w:tcPr>
-        <w:p>
-          <w:pPr>
-            <w:spacing w:before="120"/>
-          </w:pPr>
-          <w:r>
-            <w:rPr>
-              <w:sz w:val="24"/>
-              <w:b/>
-              <w:caps/>
-            </w:rPr>
-            <w:t>Database</w:t>
-          </w:r>
-        </w:p>
-        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
-          <w:r>
-            <w:rPr>
-              <w:caps/>
-              <w:spacing w:val="22"/>
-            </w:rPr>
-            <w:t>MySQL  PostgreSQL  NoSQL  ORM  Hibernate</w:t>
+            <w:t>GNU/coreutils  ruby  nginx</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -801,7 +711,7 @@
               <w:b/>
               <w:caps/>
             </w:rPr>
-            <w:t>Cloud</w:t>
+            <w:t>Linux Kernel &amp; Driver</w:t>
           </w:r>
         </w:p>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -810,7 +720,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>AWS  EC2  RDS  S3  Azure  Dropbox</w:t>
+            <w:t>TCP/IP Stack  Character Device</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -832,7 +742,7 @@
               <w:noProof/>
             </w:rPr>
             <w:pict>
-              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#5CB85C"  strokeweight="0"/>
+              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#F1C40F"  strokeweight="0"/>
             </w:pict>
           </w:r>
           <w:r>
@@ -840,7 +750,7 @@
               <w:noProof/>
             </w:rPr>
             <w:pict>
-              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:30pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:16pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
             </w:pict>
           </w:r>
         </w:p>
@@ -860,7 +770,7 @@
               <w:b/>
               <w:caps/>
             </w:rPr>
-            <w:t>Project</w:t>
+            <w:t>Compilers</w:t>
           </w:r>
         </w:p>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -869,7 +779,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Agile  TFS  JIRA  GitHub  Unified Process  MS Project</w:t>
+            <w:t>LLVM  Backend  Codegen</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -960,7 +870,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>学习中的问题和体会</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>学习中的问题和理解的记录</w:t></w:r>
     </w:p>
 
 
@@ -1006,7 +916,7 @@
       </w:pPr>
       
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>清华大学</w:t>
+          <w:t>计算机系</w:t>
         </w:r>
       
       <w:r wsp:rsidR="00EA0B64">
@@ -1085,7 +995,75 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>学习人工智能课程的一些见解</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Alphabeta剪枝的一些理解</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://blog.a1ex.wang/2016/03/the-least-things-you-need-to-know-about-aa-star-algorithm/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>The least things you need to know about A*(A-Star) Algorithm</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2016</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>A*算法的理解</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="https://blog.a1ex.wang/2016/03/%E8%BF%9B%E7%A8%8B%E5%90%8C%E6%AD%A5-10/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>进程同步原语之间的关系</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2016</w:t>
+      </w:r>
     </w:p>
 
 
@@ -1178,82 +1156,29 @@
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
         <w:t>Script</w:t>
       </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Steam</w:t>
-      </w:r>
-    </w:p>
-
-  </wx:sub-section>
-</wx:sub-section>
-
-      <wx:sub-section>
-
-<wx:pBdrGroup>
-  <wx:borders>
-    <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
-  </wx:borders>
-  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
-    <w:pPr>
-      <w:pStyle w:val="Heading1"/>
-      <w:ind w:left="-720"/>      
-    </w:pPr>
-    <w:r>
-      <w:pict>
-        <w:binData w:name="wordml://03000016.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAArlJREFUeNrsl91T2kAQwEMIIYQQPhoDWlBaYDogOD7UGTu2//9THS3WMopQNUoIUSEkIcZ8NJcp0I44ggTIQ+7lcpvM3i+7e7t7PtM0ITcNGHLZ8IA8IA/IA/KAPCAPyAPygFw2EKcUGXz9tHknGAiORTYyWTqBvk2Pz5meWmgcHt8KY00+fC3/uZiEV+Wy7mUb0Pgj6WQsFvBBkCl3GjVuZTHU42TdmnCqkP9U3v1SSQetlX7fulkRkNYRHq3JT0Rxe02mSECkqQNjJUDGtSTbYRNL/ZUQqH1WVEVYAZDWrrF9yxIwEU2NQkpWwIRi5NKBhPr3c+7JMk84m8sOdT2wom7zROHl5iHtvvqLAdEToAuVzaE1DIbhn4CQjKNitwd+Gg3jOLJwIOWievIAjEO+L5ZSIz0a2xE08PDEN6r86Gt/iN4qlNLkolym3Z4c3kggdMLrpdy/27Q4cVKm1Qdco3p0ITuRqbW7+vEZI+kTXgViO3vlxGtWNuR242edGZiQP1o+qFBzWkht/p5IgwSpaWjAHngyv70GcpQuctzcMSQr6jNZKL1b/EjiM/gbR5BFHnsYnYnG8lqzL4IZIxJu6IeUxtG1nTwjVBpxAxC2SYXs+EAwGHIDkBWpU++zFCDhjJXs8kvEXQFk3A3sYkvQHxBXAMEhvw1iGM66DPb53oSvce0+SGXBUMxJoCC9/+3gayYyMxNbq/d0UIOpTcJJIFVi+B4vyLbZDbUrarMdG5zO4c60Hzhm3bAGkCldnVaHsgHz44gB5SxCr6eyG0n0ZTViRwL+CgSJ6fjnq/bjQhtOxCg6GSUJcgynivzlea0lWbbE3m3vb8cdAnrBhQrbvmqxXP/xdd8FEjt7pQQCLRTof7I21xUVWX+uyk/E06ViZuoO1qmr9LgXE2TVHLYEM7TSo/FHgAEAC/8S0Mwjye0AAAAASUVORK5CYII=</w:binData>
-        <v:shape id="_x0000_i1026" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
-          <v:imagedata src="wordml://03000016.png" o:title="fa-bicycle"/>
-        </v:shape>
-      </w:pict>
-    </w:r>
-    <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-      <w:t>REFERENCES</w:t>
-    </w:r>
-  </w:p>
-</wx:pBdrGroup>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>John Davidson</w:t>
-      </w:r>
       <w:r wsp:rsidR="00EA0B64">
         <w:tab/>
       </w:r>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>??? — Present</w:t>
+        <w:t>linux, bash</w:t>
       </w:r>
     </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
       <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
       </w:pPr>
-      
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Steam, CoD, Hideo Kojima</w:t>
+      </w:r>
     </w:p>
+
   </wx:sub-section>
-
-
 </wx:sub-section>
 
+      
 
 
       <w:sectPr wsp:rsidR="00B43FDC" wsp:rsidRPr="000A3AF0" wsp:rsidSect="001B7422">
